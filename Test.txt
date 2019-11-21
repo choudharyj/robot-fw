@@ -1,6 +1,3 @@
 *** Test Cases ***
 TC1
     log    Hello \ from Robot Frame-work
-
-TC2
-    lo    hi
