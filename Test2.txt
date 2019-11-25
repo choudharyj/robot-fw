@@ -1,0 +1,15 @@
+*** Test Cases ***
+TC1
+    log    Hello \ from \ TC1
+
+TC2
+    log    Hello from TC2
+
+TC3
+    log    Hello from TC3
+
+TC4
+    log    Hello from TC4
+
+TC5
+    log     Hello from TC5
